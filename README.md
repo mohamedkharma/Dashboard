@@ -1,4 +1,4 @@
-- I didn't have time to work on it due to personal reasons. Will do it in the next 2 following days and re-submit it.
+- I didn't have time to work on it due to personal reasons. Will work on it in the 2 following days and re-submit it.
 
 # Web Development Project 5 - *Dashboard*
 
