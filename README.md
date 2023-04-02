@@ -1,9 +1,8 @@
-A data dashboard that show informations about the weather status and history of NYC
 # Web Development Project 5 - *WeatherDash*
 
 Submitted by: **Mohamed Kharma**
 
-This web app: **A data dashboard that show informations about the weather status and history of NYC**
+This web app: **A data dashboard that show information about the weather status and history of NYC**
 
 Time spent: **8** hours spent in total
 
